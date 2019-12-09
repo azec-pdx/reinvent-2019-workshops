@@ -23,14 +23,14 @@
     - https://docs.aws.amazon.com/dms/latest/userguide/target.docdb.html
 
 
-##2. Workshop: Build a single query to analyze data across Amazon Redshift & Amazon S3
+## 2. Workshop: Build a single query to analyze data across Amazon Redshift & Amazon S3
 ([ANT404-R](https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=96411&csrftkn=FDDX-2514-BOYY-RJBZ-CFEJ-26P0-PC90-EWK5) | Monday 4:00 PM)
 
 * **Workshop Description:** Amazon Redshift offers a common query interface against data stored in fast, local storage (Amazon Redshift) and data stored in high-capacity, inexpensive storage (Amazon S3). This workshop covers the basics of this tiered storage model and outlines design patterns that you can leverage to get the most from large volumes of data. Learn how to build out your own Amazon Redshift cluster with multiple data sets to illustrate the trade-offs between the storage systems. Learn how to distribute your data and design your DDL to deliver the best data warehouse for your business.
 * **Workshop Hands On Materials:** [Here](https://ant404.notebook.us-east-1.sagemaker.aws/tree)
 
 
-##3. Workshop: Building a scalable serverless application with AWS CDK
+## 3. Workshop: Building a scalable serverless application with AWS CDK
 ([DOP306-R](https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=96826&csrftkn=FDDX-2514-BOYY-RJBZ-CFEJ-26P0-PC90-EWK5) | Monday 7:00 PM)
 
 * **Workshop Description:** Dive into AWS and build a web application with the AWS Mythical Mysfits tutorial. In this workshop, you build a serverless application using AWS Lambda, Amazon API Gateway, and the AWS Cloud Development Kit (AWS CDK). Through the tutorial, you get hands-on experience using AWS CDK to model and provision a serverless distributed application infrastructure, you connect your application to a backend database, and you capture and analyze data on user behavior. Other AWS services that are utilized include Amazon Kinesis Data Firehose and Amazon DynamoDB.
