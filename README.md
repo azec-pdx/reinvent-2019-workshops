@@ -1,5 +1,6 @@
 # Workshops Notes From AWS Re:Invent 2019
 <hr>
+
 ## 1. Workshop: How to migrate to Amazon DocumentDB
 ([DAT338-R](https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=95826&csrftkn=FDDX-2514-BOYY-RJBZ-CFEJ-26P0-PC90-EWK5) | Monday 1:00 PM)
 
