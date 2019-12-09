@@ -60,3 +60,26 @@
 * **Workshop Hands On Materials:**
   - [Hands On Tutorial](https://github.com/aws-samples/aws-reinvent-2019-mobile-workshops/tree/master/MOB303)
   - [Community](https://amplify.aws)
+
+
+## 7. Workshop: Advanced design patterns for Amazon DynamoDB
+([DAT334-R1](https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=95818&csrftkn=FDDX-2514-BOYY-RJBZ-CFEJ-26P0-PC90-EWK5) | Wednesday 02:30 PM)
+
+* **Workshop Description:** Join us for a practical hands-on workshop on using Amazon DynamoDB. This session is designed for developers, engineers, and database administrators who are involved in designing and maintaining DynamoDB applications. We begin with a walk-through of proven NoSQL design patterns for at-scale applications. Next, we use step-by-step instructions to apply lessons learned to design DynamoDB tables and indexes that are optimized for performance and cost. Expect to leave this session with the knowledge needed to build and monitor DynamoDB applications that can grow to any size and scale.
+* **Workshop Hands On Materials:** [Here](https://ee-assets-prod-us-east-1.s3.amazonaws.com/modules/5c47b474e61a4b93a573f3187f6cfc0f/v2/guide/setup.html)
+
+
+## 8. Workshop: Building applications on Amazon QLDB
+([DAT352](https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=97087&csrftkn=FDDX-2514-BOYY-RJBZ-CFEJ-26P0-PC90-EWK5) | Thursday 12:15 PM)
+
+* **Workshop Description:** In this workshop, you build and review a sample Java application leveraging Amazon QLDB. You also learn how to use the different Amazon QLDB APIs and features, including learning how to write, query, and verify documents. Finally, we cover best practices for using this service. For this session, experience with Java is recommended but not required.
+* **Workshop Hands On Materials:** [Here](https://amazon-qldb-assets.s3.amazonaws.com/setup-scripts/dmv-lab-guide.pdf)
+
+
+## 9. Workshop: Get started with Open Distro for Elasticsearch
+([OPN302-R1](https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=95519&csrftkn=UJXZ-T53K-5MMO-FS2M-3BH6-Y0A4-4FFO-4A8O) | Thursday 3:15 PM)
+
+* **Workshop Description:** If you’re running any kind of software, in any capacity, you’re generating logs. In all likelihood, you have more logs than you could read through in several lifetimes. Buried among the noise, your logs contain important information that can help you tune and monitor your application, and find and fix security issues. In this workshop, you set up and configure Open Distro for Elasticsearch and its key plugins, including alerting, performance analyzer, security, and SQL. We will also walk through how you can manage your Elasticsearch cluster by setting up alerts, tracking cluster health metrics, and querying your data.
+* **Workshop Hands On Materials:**
+  - [Hands On Tutorial](https://reinvent.aesworkshops.com/opn302/)
+  - [Community](https://github.com/opendistro-for-elasticsearch/community/tree/master/cloudformation-deployment)
